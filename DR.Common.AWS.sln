@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Common.AWS.S3.Test", "DR.Common.AWS.S3.Test\DR.Common.AWS.S3.Test.csproj", "{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,18 @@ Global
 		{05919A5E-3406-4CB0-AF1A-FA300F72847D}.Release|x64.Build.0 = Release|Any CPU
 		{05919A5E-3406-4CB0-AF1A-FA300F72847D}.Release|x86.ActiveCfg = Release|Any CPU
 		{05919A5E-3406-4CB0-AF1A-FA300F72847D}.Release|x86.Build.0 = Release|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Debug|x64.Build.0 = Debug|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Debug|x86.Build.0 = Debug|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Release|x64.ActiveCfg = Release|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Release|x64.Build.0 = Release|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{1648A404-7B8F-4FAB-B3C1-11B74CD9D7BE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
