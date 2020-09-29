@@ -16,7 +16,7 @@ namespace DR.Common.AWS.S3.Test
         public async Task Setup()
         {
             _service = new S3Service(Startup.S3ServiceOptions);
-            _client = new Amazon.S3.AmazonS3Client(
+            _client = new AmazonS3Client(
                 Startup.S3ServiceOptions.Key,
                 Startup.S3ServiceOptions.Secret,
                  new AmazonS3Config
