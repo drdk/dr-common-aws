@@ -3,7 +3,7 @@
     <Copyright>DR (Danish Broadcasting Corporation)</Copyright>
     <Company>DR (Danish Broadcasting Corporation)</Company>
     <Authors>DR.DK-Streaming</Authors>    
-    <VersionPrefix>0.0.2</VersionPrefix>
+    <VersionPrefix>0.0.3</VersionPrefix>
     <VersionSuffix>localhost</VersionSuffix>
     <RepositoryUrl>https://github.com/drdk/dr-common-aws</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
